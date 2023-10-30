@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// 230539633	Oct/30/2023 21:20UTC+6	sumayaruhas	A - Greg's Workout	GNU C++17	Accepted	30 ms	0 KB
 int main()
 {
     int a , b , i , ch = 0 , bi = 0 , ba = 0;
